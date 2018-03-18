@@ -1,0 +1,3 @@
+train:9000   spam:5163  ham:3837
+test:1000   spam:580       ham:420
+
